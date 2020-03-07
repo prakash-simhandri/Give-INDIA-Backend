@@ -4,3 +4,10 @@ In this project, the user can donate the `currency` and provide information abou
 
 ## The Requirements
 
+### CSVtoJSON and CSV Writer`
+
+```
+$ npm install -g convert-csv-to-json
+$ npm i csv-writer
+'''
+
