@@ -9,5 +9,16 @@ In this project, the user can donate the `currency` and provide information abou
 ```
 $ npm install -g convert-csv-to-json
 $ npm i csv-writer
-'''
+```
+Now, you have to install dependencies by using npm <b>(node-package-manager)</b>, open your termial, and first type.
+
+```
+$ sudo apt-get update
+$ npm install
+```
+
+After finishing installation process above, you can run your server.
+```
+nodemon server.js
+```
 
