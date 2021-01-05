@@ -9,7 +9,7 @@
   "author": "prakash",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "convert-csv-to-json": "0.0.15",
     "csv-writer": "^1.6.0",
